@@ -1,0 +1,2 @@
+# Djangocrudeoperations
+project for learning
